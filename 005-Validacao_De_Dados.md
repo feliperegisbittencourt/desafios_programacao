@@ -7,7 +7,7 @@ Escreva um programa que verifique em um arquivo de dados se todos os parâmetros
 
 Na primeira linha haverá uma lista separada por vírgula com os parâmetros obrigatórios.
 
-Nas linhas seguintes haverão os valores dos parâmetros sendo um por linha no formato `chave = valor`. Espaços em branco devem ser ignorados.
+Nas linhas seguintes haverá os valores dos parâmetros sendo um por linha no formato `chave = valor`. Espaços em branco devem ser ignorados.
 
 Exemplo 1:
 
