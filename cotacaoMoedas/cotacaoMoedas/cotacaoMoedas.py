@@ -81,6 +81,10 @@ for codeCountry in responseCountry:
     #Aumentando Contador Pais
     j += 1
 
-#Printando resultados
-
-print(simboloCotacao, ", ", nomePais, ", ", menorCotacao)
+#Verificando se o nome do Pais foi setado
+if(nomePais != ''):
+    #Printando resultados
+    print(simboloCotacao, ", ", nomePais, ", ", menorCotacao)
+else:
+    #Printando quando não há cotação no dia
+    print('x')
