@@ -1,0 +1,2207 @@
+[
+ {
+   "C?digo": 5,
+   "Nome": "AFEGANE AFEGANIST",
+   "S?mbolo": "AFN",
+   "C?d. Pa?s": 132,
+   "Pa?s": "AFEGANISTAO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 785,
+   "Nome": "RANDE/AFRICA SUL",
+   "S?mbolo": "ZAR",
+   "C?d. Pa?s": 7560,
+   "Pa?s": "AFRICA DO SUL",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 490,
+   "Nome": "LEK ALBANIA REP",
+   "S?mbolo": "ALL",
+   "C?d. Pa?s": 175,
+   "Pa?s": "ALBANIA, REPUBLICA DA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 610,
+   "Nome": "MARCO ALEMAO",
+   "S?mbolo": "DEM",
+   "C?d. Pa?s": 230,
+   "Pa?s": "ALEMANHA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "02/01/2002"
+ },
+ {
+   "C?digo": 690,
+   "Nome": "PESETA/ANDORA",
+   "S?mbolo": "ADP",
+   "C?d. Pa?s": 370,
+   "Pa?s": "ANDORRA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "27/02/2004"
+ },
+ {
+   "C?digo": 635,
+   "Nome": "KWANZA/ANGOLA",
+   "S?mbolo": "AOA",
+   "C?d. Pa?s": 400,
+   "Pa?s": "ANGOLA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 820,
+   "Nome": "RIAL/ARAB SAUDITA",
+   "S?mbolo": "SAR",
+   "C?d. Pa?s": 531,
+   "Pa?s": "ARABIA SAUDITA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 95,
+   "Nome": "DINAR ARGELINO",
+   "S?mbolo": "DZD",
+   "C?d. Pa?s": 590,
+   "Pa?s": "ARGELIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 10,
+   "Nome": "AUSTRAL",
+   "S?mbolo": "ARG",
+   "C?d. Pa?s": 639,
+   "Pa?s": "ARGENTINA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "16/12/2009"
+ },
+ {
+   "C?digo": 705,
+   "Nome": "PESO ARGENTINO",
+   "S?mbolo": "$(ARG)",
+   "C?d. Pa?s": 639,
+   "Pa?s": "ARGENTINA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "03/11/1986"
+ },
+ {
+   "C?digo": 706,
+   "Nome": "PESO ARGENTINO",
+   "S?mbolo": "ARS",
+   "C?d. Pa?s": 639,
+   "Pa?s": "ARGENTINA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 275,
+   "Nome": "DRAM ARMENIA REP",
+   "S?mbolo": "AMD",
+   "C?d. Pa?s": 647,
+   "Pa?s": "ARMENIA, REPUBLICA DA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 328,
+   "Nome": "FLORIM/ARUBA",
+   "S?mbolo": "AWG",
+   "C?d. Pa?s": 655,
+   "Pa?s": "ARUBA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 150,
+   "Nome": "DOLAR AUSTRALIANO",
+   "S?mbolo": "AUD",
+   "C?d. Pa?s": 698,
+   "Pa?s": "AUSTRALIA",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 940,
+   "Nome": "XELIM AUSTRIACO",
+   "S?mbolo": "ATS",
+   "C?d. Pa?s": 728,
+   "Pa?s": "AUSTRIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "02/01/2002"
+ },
+ {
+   "C?digo": 607,
+   "Nome": "MANAT ARZEBAIJAO",
+   "S?mbolo": "AZN",
+   "C?d. Pa?s": 736,
+   "Pa?s": "AZERBAIJAO, REPUBLICA DO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 155,
+   "Nome": "DOLAR/BAHAMAS",
+   "S?mbolo": "BSD",
+   "C?d. Pa?s": 779,
+   "Pa?s": "BAHAMAS, ILHAS",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 105,
+   "Nome": "DINAR/BAHREIN",
+   "S?mbolo": "BHD",
+   "C?d. Pa?s": 809,
+   "Pa?s": "BAHREIN, ILHAS",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 905,
+   "Nome": "TACA/BANGLADESH",
+   "S?mbolo": "BDT",
+   "C?d. Pa?s": 817,
+   "Pa?s": "BANGLADESH",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 175,
+   "Nome": "DOLAR/BARBADOS",
+   "S?mbolo": "BBD",
+   "C?d. Pa?s": 833,
+   "Pa?s": "BARBADOS",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 829,
+   "Nome": "RUBLO BELARUS",
+   "S?mbolo": "BYR",
+   "C?d. Pa?s": 850,
+   "Pa?s": "BELARUS, REPUBLICA DA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "30/06/2016"
+ },
+ {
+   "C?digo": 831,
+   "Nome": "RUBLO BELARUS",
+   "S?mbolo": "BYN",
+   "C?d. Pa?s": 850,
+   "Pa?s": "BELARUS, REPUBLICA DA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 360,
+   "Nome": "FRANCO BELGA/BELG",
+   "S?mbolo": "BEF",
+   "C?d. Pa?s": 876,
+   "Pa?s": "BELGICA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "02/01/2002"
+ },
+ {
+   "C?digo": 180,
+   "Nome": "DOLAR/BELIZE",
+   "S?mbolo": "BZD",
+   "C?d. Pa?s": 884,
+   "Pa?s": "BELIZE",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 160,
+   "Nome": "DOLAR/BERMUDAS",
+   "S?mbolo": "BMD",
+   "C?d. Pa?s": 906,
+   "Pa?s": "BERMUDAS",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 30,
+   "Nome": "BOLIVIANO/BOLIVIA",
+   "S?mbolo": "BOB",
+   "C?d. Pa?s": 973,
+   "Pa?s": "BOLIVIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 710,
+   "Nome": "PESO BOLIVIANO",
+   "S?mbolo": "$B",
+   "C?d. Pa?s": 973,
+   "Pa?s": "BOLIVIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "20/09/1993"
+ },
+ {
+   "C?digo": 612,
+   "Nome": "MARCO CONV BOSNIA",
+   "S?mbolo": "BAM",
+   "C?d. Pa?s": 981,
+   "Pa?s": "BOSNIA-HERZEGOVINA (REPUBLICA DA)",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 755,
+   "Nome": "PULA/BOTSWANA",
+   "S?mbolo": "BWP",
+   "C?d. Pa?s": 1015,
+   "Pa?s": "BOTSUANA",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 78,
+   "Nome": "CRUZADO NOVO",
+   "S?mbolo": "NCZ$",
+   "C?d. Pa?s": 1058,
+   "Pa?s": "BRASIL",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "15/03/1990"
+ },
+ {
+   "C?digo": 79,
+   "Nome": "CRUZADO",
+   "S?mbolo": "CZ$",
+   "C?d. Pa?s": 1058,
+   "Pa?s": "BRASIL",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "15/01/1989"
+ },
+ {
+   "C?digo": 80,
+   "Nome": "CRUZEIRO",
+   "S?mbolo": "CR$",
+   "C?d. Pa?s": 1058,
+   "Pa?s": "BRASIL",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "27/02/1986"
+ },
+ {
+   "C?digo": 83,
+   "Nome": "CRUZEIRO",
+   "S?mbolo": "CR$",
+   "C?d. Pa?s": 1058,
+   "Pa?s": "BRASIL",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "31/07/1993"
+ },
+ {
+   "C?digo": 85,
+   "Nome": "CRUZEIRO REAL",
+   "S?mbolo": "CR$",
+   "C?d. Pa?s": 1058,
+   "Pa?s": "BRASIL",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "30/06/1994"
+ },
+ {
+   "C?digo": 790,
+   "Nome": "REAL BRASIL",
+   "S?mbolo": "BRL",
+   "C?d. Pa?s": 1058,
+   "Pa?s": "BRASIL",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 185,
+   "Nome": "DOLAR BRUNEI",
+   "S?mbolo": "BND",
+   "C?d. Pa?s": 1082,
+   "Pa?s": "BRUNEI",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 510,
+   "Nome": "LEV/BULGARIA, REP",
+   "S?mbolo": "BGN",
+   "C?d. Pa?s": 1112,
+   "Pa?s": "BULGARIA, REPUBLICA DA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 365,
+   "Nome": "FRANCO/BURUNDI",
+   "S?mbolo": "BIF",
+   "C?d. Pa?s": 1155,
+   "Pa?s": "BURUNDI",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 665,
+   "Nome": "NGULTRUM/BUTAO",
+   "S?mbolo": "BTN",
+   "C?d. Pa?s": 1198,
+   "Pa?s": "BUTAO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 295,
+   "Nome": "ESCUDO CABO VERDE",
+   "S?mbolo": "CVE",
+   "C?d. Pa?s": 1279,
+   "Pa?s": "CABO VERDE, REPUBLICA DE",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 825,
+   "Nome": "RIEL/CAMBOJA",
+   "S?mbolo": "KHR",
+   "C?d. Pa?s": 1414,
+   "Pa?s": "CAMBOJA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 165,
+   "Nome": "DOLAR CANADENSE",
+   "S?mbolo": "CAD",
+   "C?d. Pa?s": 1490,
+   "Pa?s": "CANADA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 800,
+   "Nome": "RIAL/CATAR",
+   "S?mbolo": "QAR",
+   "C?d. Pa?s": 1546,
+   "Pa?s": "CATAR",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 190,
+   "Nome": "DOLAR CAYMAN",
+   "S?mbolo": "KYD",
+   "C?d. Pa?s": 1376,
+   "Pa?s": "CAYMAN, ILHAS",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 913,
+   "Nome": "TENGE CAZAQUISTAO",
+   "S?mbolo": "KZT",
+   "C?d. Pa?s": 1538,
+   "Pa?s": "CAZAQUISTAO, REPUBLICA DO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 197,
+   "Nome": "UNIDADE DE FOMENTO DO CHILE",
+   "S?mbolo": "CLF",
+   "C?d. Pa?s": 1589,
+   "Pa?s": "CHILE",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 715,
+   "Nome": "PESO CHILE",
+   "S?mbolo": "CLP",
+   "C?d. Pa?s": 1589,
+   "Pa?s": "CHILE",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 916,
+   "Nome": "UNID FOMENTO CHIL",
+   "S?mbolo": "CLF",
+   "C?d. Pa?s": 1589,
+   "Pa?s": "CHILE",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "20/01/2014"
+ },
+ {
+   "C?digo": 795,
+   "Nome": "RENMINBI CHINES",
+   "S?mbolo": "CNY",
+   "C?d. Pa?s": 1600,
+   "Pa?s": "CHINA, REPUBLICA POPULAR",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 520,
+   "Nome": "LIBRA CIP/CHIPRE",
+   "S?mbolo": "CYP",
+   "C?d. Pa?s": 1635,
+   "Pa?s": "CHIPRE",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "03/03/2009"
+ },
+ {
+   "C?digo": 195,
+   "Nome": "DOLAR CINGAPURA",
+   "S?mbolo": "SGD",
+   "C?d. Pa?s": 7412,
+   "Pa?s": "CINGAPURA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 720,
+   "Nome": "PESO/COLOMBIA",
+   "S?mbolo": "COP",
+   "C?d. Pa?s": 1694,
+   "Pa?s": "COLOMBIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 368,
+   "Nome": "FRANCO/COMORES",
+   "S?mbolo": "KMF",
+   "C?d. Pa?s": 1732,
+   "Pa?s": "COMORES, ILHAS",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 363,
+   "Nome": "FRANCO CONGOLES",
+   "S?mbolo": "CDF",
+   "C?d. Pa?s": 8885,
+   "Pa?s": "CONGO, REPUBLICA DEMOCRATICA DO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 970,
+   "Nome": "NOVO ZAIRE  ZAIRE",
+   "S?mbolo": "ZRN",
+   "C?d. Pa?s": 8885,
+   "Pa?s": "CONGO, REPUBLICA DEMOCRATICA DO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "31/07/1998"
+ },
+ {
+   "C?digo": 971,
+   "Nome": "NOVO ZAIRE/ZAIRE",
+   "S?mbolo": "ZRN",
+   "C?d. Pa?s": 8885,
+   "Pa?s": "CONGO, REPUBLICA DEMOCRATICA DO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "30/10/1998"
+ },
+ {
+   "C?digo": 925,
+   "Nome": "WON/COREIA NORTE",
+   "S?mbolo": "KPW",
+   "C?d. Pa?s": 1872,
+   "Pa?s": "COREIA, REP.POP.DEMOCRATICA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 930,
+   "Nome": "WON COREIA SUL",
+   "S?mbolo": "KRW",
+   "C?d. Pa?s": 1902,
+   "Pa?s": "COREIA, REPUBLICA DA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 995,
+   "Nome": "BUA",
+   "S?mbolo": "BUA",
+   "C?d. Pa?s": 1937,
+   "Pa?s": "COSTA DO MARFIM",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": "17/12/2009"
+ },
+ {
+   "C?digo": 996,
+   "Nome": "FUA",
+   "S?mbolo": "FUA",
+   "C?d. Pa?s": 1937,
+   "Pa?s": "COSTA DO MARFIM",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": "17/12/2009"
+ },
+ {
+   "C?digo": 40,
+   "Nome": "COLON/COSTA RICA",
+   "S?mbolo": "CRC",
+   "C?d. Pa?s": 1961,
+   "Pa?s": "COSTA RICA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 100,
+   "Nome": "DINAR/KWAIT",
+   "S?mbolo": "KWD",
+   "C?d. Pa?s": 1988,
+   "Pa?s": "COVEITE",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 779,
+   "Nome": "KUNA/CROACIA",
+   "S?mbolo": "HRK",
+   "C?d. Pa?s": 1953,
+   "Pa?s": "CROACIA (REPUBLICA DA)",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 725,
+   "Nome": "PESO/CUBA",
+   "S?mbolo": "CUP",
+   "C?d. Pa?s": 1996,
+   "Pa?s": "CUBA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 55,
+   "Nome": "COROA DINAMARQUESA",
+   "S?mbolo": "DKK",
+   "C?d. Pa?s": 2321,
+   "Pa?s": "DINAMARCA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 390,
+   "Nome": "FRANCO/DJIBUTI",
+   "S?mbolo": "DJF",
+   "C?d. Pa?s": 7838,
+   "Pa?s": "DJIBUTI",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 535,
+   "Nome": "LIBRA/EGITO",
+   "S?mbolo": "EGP",
+   "C?d. Pa?s": 2402,
+   "Pa?s": "EGITO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 45,
+   "Nome": "COLON/EL SALVADOR",
+   "S?mbolo": "SVC",
+   "C?d. Pa?s": 6874,
+   "Pa?s": "EL SALVADOR",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 145,
+   "Nome": "DIRHAM/EMIR.ARABE",
+   "S?mbolo": "AED",
+   "C?d. Pa?s": 2445,
+   "Pa?s": "EMIRADOS ARABES UNIDOS",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 895,
+   "Nome": "SUCRE EQUADOR",
+   "S?mbolo": "ECS",
+   "C?d. Pa?s": 2399,
+   "Pa?s": "EQUADOR",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "09/09/2000"
+ },
+ {
+   "C?digo": 625,
+   "Nome": "NAKFA ERITREIA",
+   "S?mbolo": "ERN",
+   "C?d. Pa?s": 2437,
+   "Pa?s": "ERITREIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 58,
+   "Nome": "COROA ESLOVACA",
+   "S?mbolo": "SKK",
+   "C?d. Pa?s": 2470,
+   "Pa?s": "ESLOVACA, REPUBLICA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "03/03/2009"
+ },
+ {
+   "C?digo": 914,
+   "Nome": "TOLAR/ESLOVENIA",
+   "S?mbolo": "SIT",
+   "C?d. Pa?s": 2461,
+   "Pa?s": "ESLOVENIA, REPUBLICA DA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "03/03/2009"
+ },
+ {
+   "C?digo": 700,
+   "Nome": "PESETA ESPANHOLA",
+   "S?mbolo": "ESP",
+   "C?d. Pa?s": 2453,
+   "Pa?s": "ESPANHA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "02/01/2002"
+ },
+ {
+   "C?digo": 57,
+   "Nome": "COROA ESTONIA",
+   "S?mbolo": "EEK",
+   "C?d. Pa?s": 2518,
+   "Pa?s": "ESTONIA, REPUBLICA DA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "17/01/2011"
+ },
+ {
+   "C?digo": 9,
+   "Nome": "BIRR/ETIOPIA",
+   "S?mbolo": "ETB",
+   "C?d. Pa?s": 2534,
+   "Pa?s": "ETIOPIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 545,
+   "Nome": "LIBRA/FALKLAND",
+   "S?mbolo": "FKP",
+   "C?d. Pa?s": 2550,
+   "Pa?s": "FALKLAND (ILHAS MALVINAS)",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 200,
+   "Nome": "DOLAR FIJI",
+   "S?mbolo": "FJD",
+   "C?d. Pa?s": 8702,
+   "Pa?s": "FIJI",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 735,
+   "Nome": "PESO/FILIPINAS",
+   "S?mbolo": "PHP",
+   "C?d. Pa?s": 2674,
+   "Pa?s": "FILIPINAS",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 615,
+   "Nome": "MARCO FINLANDES",
+   "S?mbolo": "FIM",
+   "C?d. Pa?s": 2712,
+   "Pa?s": "FINLANDIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "02/01/2002"
+ },
+ {
+   "C?digo": 640,
+   "Nome": "NOVO DOLAR/TAIWAN",
+   "S?mbolo": "TWD",
+   "C?d. Pa?s": 1619,
+   "Pa?s": "FORMOSA (TAIWAN)",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 395,
+   "Nome": "FRANCO FRANCES",
+   "S?mbolo": "FRF",
+   "C?d. Pa?s": 2755,
+   "Pa?s": "FRANCA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "02/01/2002"
+ },
+ {
+   "C?digo": 90,
+   "Nome": "DALASI/GAMBIA",
+   "S?mbolo": "GMD",
+   "C?d. Pa?s": 2852,
+   "Pa?s": "GAMBIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 35,
+   "Nome": "CEDI GANA",
+   "S?mbolo": "GHS",
+   "C?d. Pa?s": 2895,
+   "Pa?s": "GANA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 482,
+   "Nome": "LARI GEORGIA",
+   "S?mbolo": "GEL",
+   "C?d. Pa?s": 2917,
+   "Pa?s": "GEORGIA, REPUBLICA DA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 530,
+   "Nome": "LIBRA/GIBRALTAR",
+   "S?mbolo": "GIP",
+   "C?d. Pa?s": 2933,
+   "Pa?s": "GIBRALTAR",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 270,
+   "Nome": "DRACMA/GRECIA",
+   "S?mbolo": "GRD",
+   "C?d. Pa?s": 3018,
+   "Pa?s": "GRECIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "02/01/2002"
+ },
+ {
+   "C?digo": 770,
+   "Nome": "QUETZAL/GUATEMALA",
+   "S?mbolo": "GTQ",
+   "C?d. Pa?s": 3174,
+   "Pa?s": "GUATEMALA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 170,
+   "Nome": "DOLAR DA GUIANA",
+   "S?mbolo": "GYD",
+   "C?d. Pa?s": 3379,
+   "Pa?s": "GUIANA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 398,
+   "Nome": "FRANCO/GUINE",
+   "S?mbolo": "GNF",
+   "C?d. Pa?s": 3298,
+   "Pa?s": "GUINE",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 738,
+   "Nome": "PESO/GUINE BISSAU",
+   "S?mbolo": "GWP",
+   "C?d. Pa?s": 3344,
+   "Pa?s": "GUINE-BISSAU",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 440,
+   "Nome": "GOURDE HAITI",
+   "S?mbolo": "HTG",
+   "C?d. Pa?s": 3417,
+   "Pa?s": "HAITI",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 495,
+   "Nome": "LEMPIRA/HONDURAS",
+   "S?mbolo": "HNL",
+   "C?d. Pa?s": 3450,
+   "Pa?s": "HONDURAS",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 205,
+   "Nome": "DOLAR HONG KONG",
+   "S?mbolo": "HKD",
+   "C?d. Pa?s": 3514,
+   "Pa?s": "HONG KONG",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 345,
+   "Nome": "FORINT/HUNGRIA",
+   "S?mbolo": "HUF",
+   "C?d. Pa?s": 3557,
+   "Pa?s": "HUNGRIA, REPUBLICA DA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 810,
+   "Nome": "RIAL/IEMEN",
+   "S?mbolo": "YER",
+   "C?d. Pa?s": 3573,
+   "Pa?s": "IEMEN",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 860,
+   "Nome": "RUPIA/INDIA",
+   "S?mbolo": "INR",
+   "C?d. Pa?s": 3611,
+   "Pa?s": "INDIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 865,
+   "Nome": "RUPIA/INDONESIA",
+   "S?mbolo": "IDR",
+   "C?d. Pa?s": 3654,
+   "Pa?s": "INDONESIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 815,
+   "Nome": "RIAL/IRAN, REP",
+   "S?mbolo": "IRR",
+   "C?d. Pa?s": 3727,
+   "Pa?s": "IRA, REPUBLICA ISLAMICA DO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 115,
+   "Nome": "DINAR/IRAQUE",
+   "S?mbolo": "IQD",
+   "C?d. Pa?s": 3697,
+   "Pa?s": "IRAQUE",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 550,
+   "Nome": "LIBRA/IRLANDA",
+   "S?mbolo": "IEP",
+   "C?d. Pa?s": 3751,
+   "Pa?s": "IRLANDA",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": "02/01/2002"
+ },
+ {
+   "C?digo": 60,
+   "Nome": "COROA ISLND/ISLAN",
+   "S?mbolo": "ISK",
+   "C?d. Pa?s": 3794,
+   "Pa?s": "ISLANDIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 880,
+   "Nome": "SHEKEL/ISRAEL",
+   "S?mbolo": "ILS",
+   "C?d. Pa?s": 3832,
+   "Pa?s": "ISRAEL",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 595,
+   "Nome": "LIRA ITALIANA",
+   "S?mbolo": "ITL",
+   "C?d. Pa?s": 3867,
+   "Pa?s": "ITALIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "02/01/2002"
+ },
+ {
+   "C?digo": 230,
+   "Nome": "DOLAR/JAMAICA",
+   "S?mbolo": "JMD",
+   "C?d. Pa?s": 3913,
+   "Pa?s": "JAMAICA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 470,
+   "Nome": "IENE",
+   "S?mbolo": "JPY",
+   "C?d. Pa?s": 3999,
+   "Pa?s": "JAPAO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 125,
+   "Nome": "DINAR/JORDANIA",
+   "S?mbolo": "JOD",
+   "C?d. Pa?s": 4030,
+   "Pa?s": "JORDANIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 780,
+   "Nome": "QUIPE/LAOS, REP",
+   "S?mbolo": "LAK",
+   "C?d. Pa?s": 4200,
+   "Pa?s": "LAOS, REP.POP.DEMOCR.DO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 603,
+   "Nome": "LOTI/LESOTO",
+   "S?mbolo": "LSL",
+   "C?d. Pa?s": 4260,
+   "Pa?s": "LESOTO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 485,
+   "Nome": "LAT LETONIA REP",
+   "S?mbolo": "LVL",
+   "C?d. Pa?s": 4278,
+   "Pa?s": "LETONIA, REPUBLICA DA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "31/12/2013"
+ },
+ {
+   "C?digo": 560,
+   "Nome": "LIBRA/LIBANO",
+   "S?mbolo": "LBP",
+   "C?d. Pa?s": 4316,
+   "Pa?s": "LIBANO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 235,
+   "Nome": "DOLAR LIBERIA",
+   "S?mbolo": "LRD",
+   "C?d. Pa?s": 4340,
+   "Pa?s": "LIBERIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 130,
+   "Nome": "DINAR/LIBIA",
+   "S?mbolo": "LYD",
+   "C?d. Pa?s": 4383,
+   "Pa?s": "LIBIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 601,
+   "Nome": "LITA LITUANIA",
+   "S?mbolo": "LTL",
+   "C?d. Pa?s": 4421,
+   "Pa?s": "LITUANIA, REPUBLICA DA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "31/12/2014"
+ },
+ {
+   "C?digo": 400,
+   "Nome": "FRANCO LUXEMBURGO",
+   "S?mbolo": "LUF",
+   "C?d. Pa?s": 4456,
+   "Pa?s": "LUXEMBURGO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "02/01/2002"
+ },
+ {
+   "C?digo": 685,
+   "Nome": "PATACA/MACAU",
+   "S?mbolo": "MOP",
+   "C?d. Pa?s": 4472,
+   "Pa?s": "MACAU",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 132,
+   "Nome": "DINAR/MACEDONIA",
+   "S?mbolo": "MKD",
+   "C?d. Pa?s": 4499,
+   "Pa?s": "MACEDONIA DO NORTE",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 405,
+   "Nome": "FRANCO MALGAXE MADAGA",
+   "S?mbolo": "MGF",
+   "C?d. Pa?s": 4502,
+   "Pa?s": "MADAGASCAR",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "14/06/2010"
+ },
+ {
+   "C?digo": 406,
+   "Nome": "ARIARY MADAGASCAR",
+   "S?mbolo": "MGA",
+   "C?d. Pa?s": 4502,
+   "Pa?s": "MADAGASCAR",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 240,
+   "Nome": "DOLAR MALAIO",
+   "S?mbolo": "M$",
+   "C?d. Pa?s": 4553,
+   "Pa?s": "MALASIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "24/04/1986"
+ },
+ {
+   "C?digo": 828,
+   "Nome": "RINGGIT/MALASIA",
+   "S?mbolo": "MYR",
+   "C?d. Pa?s": 4553,
+   "Pa?s": "MALASIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 760,
+   "Nome": "QUACHA/MALAVI",
+   "S?mbolo": "MWK",
+   "C?d. Pa?s": 4588,
+   "Pa?s": "MALAVI",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 870,
+   "Nome": "RUFIA/MALDIVAS",
+   "S?mbolo": "MVR",
+   "C?d. Pa?s": 4618,
+   "Pa?s": "MALDIVAS",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 565,
+   "Nome": "LIRA/MALTA",
+   "S?mbolo": "MTL",
+   "C?d. Pa?s": 4677,
+   "Pa?s": "MALTA",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": "03/03/2009"
+ },
+ {
+   "C?digo": 139,
+   "Nome": "DIRHAM/MARROCOS",
+   "S?mbolo": "MAD",
+   "C?d. Pa?s": 4740,
+   "Pa?s": "MARROCOS",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 840,
+   "Nome": "RUPIA/MAURICIO",
+   "S?mbolo": "MUR",
+   "C?d. Pa?s": 4855,
+   "Pa?s": "MAURICIO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 670,
+   "Nome": "UGUIA MAURITANIA",
+   "S?mbolo": "MRO",
+   "C?d. Pa?s": 4880,
+   "Pa?s": "MAURITANIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 671,
+   "Nome": "UGUIA MAURITANIA",
+   "S?mbolo": "MRU",
+   "C?d. Pa?s": 4880,
+   "Pa?s": "MAURITANIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 740,
+   "Nome": "PESO MEXICANO",
+   "S?mbolo": "MEX$",
+   "C?d. Pa?s": 4936,
+   "Pa?s": "MEXICO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "31/05/1993"
+ },
+ {
+   "C?digo": 741,
+   "Nome": "PESO/MEXICO",
+   "S?mbolo": "MXN",
+   "C?d. Pa?s": 4936,
+   "Pa?s": "MEXICO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 775,
+   "Nome": "QUIATE/BIRMANIA",
+   "S?mbolo": "MMK",
+   "C?d. Pa?s": 930,
+   "Pa?s": "MIANMAR (BIRMANIA)",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 620,
+   "Nome": "METICAL MOCAMBIQ",
+   "S?mbolo": "MZM",
+   "C?d. Pa?s": 5053,
+   "Pa?s": "MOCAMBIQUE",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "01/07/2006"
+ },
+ {
+   "C?digo": 622,
+   "Nome": "NOVA METICAL/MOCA",
+   "S?mbolo": "MZN",
+   "C?d. Pa?s": 5053,
+   "Pa?s": "MOCAMBIQUE",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 503,
+   "Nome": "LEU/MOLDAVIA, REP",
+   "S?mbolo": "MDL",
+   "C?d. Pa?s": 4944,
+   "Pa?s": "MOLDAVIA, REPUBLICA DA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 915,
+   "Nome": "TUGRIK/MONGOLIA",
+   "S?mbolo": "MNT",
+   "C?d. Pa?s": 4979,
+   "Pa?s": "MONGOLIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 173,
+   "Nome": "DOLAR DA NAMIBIA",
+   "S?mbolo": "NAD",
+   "C?d. Pa?s": 5070,
+   "Pa?s": "NAMIBIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 845,
+   "Nome": "RUPIA/NEPAL",
+   "S?mbolo": "NPR",
+   "C?d. Pa?s": 5177,
+   "Pa?s": "NEPAL",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 51,
+   "Nome": "CORDOBA OURO",
+   "S?mbolo": "NIO",
+   "C?d. Pa?s": 5215,
+   "Pa?s": "NICARAGUA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 630,
+   "Nome": "NAIRA NIGERIA",
+   "S?mbolo": "NGN",
+   "C?d. Pa?s": 5282,
+   "Pa?s": "NIGERIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 65,
+   "Nome": "COROA NORUEGUESA",
+   "S?mbolo": "NOK",
+   "C?d. Pa?s": 5380,
+   "Pa?s": "NORUEGA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 805,
+   "Nome": "RIAL/OMA",
+   "S?mbolo": "OMR",
+   "C?d. Pa?s": 5568,
+   "Pa?s": "OMA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 335,
+   "Nome": "FLORIM HOLANDES",
+   "S?mbolo": "NLG",
+   "C?d. Pa?s": 5738,
+   "Pa?s": "PAISES BAIXOS (HOLANDA)",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "02/01/2002"
+ },
+ {
+   "C?digo": 20,
+   "Nome": "BALBOA/PANAMA",
+   "S?mbolo": "PAB",
+   "C?d. Pa?s": 5800,
+   "Pa?s": "PANAMA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 778,
+   "Nome": "KINA/PAPUA N GUIN",
+   "S?mbolo": "PGK",
+   "C?d. Pa?s": 5452,
+   "Pa?s": "PAPUA NOVA GUINE",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 875,
+   "Nome": "RUPIA/PAQUISTAO",
+   "S?mbolo": "PKR",
+   "C?d. Pa?s": 5762,
+   "Pa?s": "PAQUISTAO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 450,
+   "Nome": "GUARANI/PARAGUAI",
+   "S?mbolo": "PYG",
+   "C?d. Pa?s": 5860,
+   "Pa?s": "PARAGUAI",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 480,
+   "Nome": "INTI PERUANO",
+   "S?mbolo": "I",
+   "C?d. Pa?s": 5894,
+   "Pa?s": "PERU",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "01/02/1991"
+ },
+ {
+   "C?digo": 660,
+   "Nome": "NOVO SOL/PERU",
+   "S?mbolo": "PEN",
+   "C?d. Pa?s": 5894,
+   "Pa?s": "PERU",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 890,
+   "Nome": "SOL PERUANO",
+   "S?mbolo": "S/.",
+   "C?d. Pa?s": 5894,
+   "Pa?s": "PERU",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "26/04/1988"
+ },
+ {
+   "C?digo": 380,
+   "Nome": "FRANCO CFP",
+   "S?mbolo": "XPF",
+   "C?d. Pa?s": 5991,
+   "Pa?s": "POLINESIA FRANCESA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 975,
+   "Nome": "ZLOTY/POLONIA",
+   "S?mbolo": "PLN",
+   "C?d. Pa?s": 6033,
+   "Pa?s": "POLONIA, REPUBLICA DA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 315,
+   "Nome": "ESCUDO PORTUGUES",
+   "S?mbolo": "PTE",
+   "C?d. Pa?s": 6076,
+   "Pa?s": "PORTUGAL",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "02/01/2002"
+ },
+ {
+   "C?digo": 950,
+   "Nome": "XELIM/QUENIA",
+   "S?mbolo": "KES",
+   "C?d. Pa?s": 6238,
+   "Pa?s": "QUENIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 892,
+   "Nome": "SOM QUIRGUISTAO",
+   "S?mbolo": "KGS",
+   "C?d. Pa?s": 6254,
+   "Pa?s": "QUIRGUIZ, REPUBLICA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 730,
+   "Nome": "PESO/REP. DOMINIC",
+   "S?mbolo": "DOP",
+   "C?d. Pa?s": 6475,
+   "Pa?s": "REPUBLICA DOMINICANA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 505,
+   "Nome": "LEU/ROMENIA",
+   "S?mbolo": "ROL",
+   "C?d. Pa?s": 6700,
+   "Pa?s": "ROMENIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "17/12/2009"
+ },
+ {
+   "C?digo": 506,
+   "Nome": "NOVO LEU/ROMENIA",
+   "S?mbolo": "RON",
+   "C?d. Pa?s": 6700,
+   "Pa?s": "ROMENIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 420,
+   "Nome": "FRANCO/RUANDA",
+   "S?mbolo": "RWF",
+   "C?d. Pa?s": 6750,
+   "Pa?s": "RUANDA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 830,
+   "Nome": "RUBLO/RUSSIA",
+   "S?mbolo": "RUB",
+   "C?d. Pa?s": 6769,
+   "Pa?s": "RUSSIA, FEDERACAO DA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 250,
+   "Nome": "DOLAR IL SALOMAO",
+   "S?mbolo": "SBD",
+   "C?d. Pa?s": 6777,
+   "Pa?s": "SALOMAO, ILHAS",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 910,
+   "Nome": "TALA",
+   "S?mbolo": "WS$",
+   "C?d. Pa?s": 6904,
+   "Pa?s": "SAMOA",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": "27/07/1988"
+ },
+ {
+   "C?digo": 911,
+   "Nome": "TALA SAMOA OC",
+   "S?mbolo": "WST",
+   "C?d. Pa?s": 6904,
+   "Pa?s": "SAMOA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "02/12/2014"
+ },
+ {
+   "C?digo": 912,
+   "Nome": "TALA SAMOA",
+   "S?mbolo": "WST",
+   "C?d. Pa?s": 6904,
+   "Pa?s": "SAMOA",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 570,
+   "Nome": "LIBRA/STA HELENA",
+   "S?mbolo": "SHP",
+   "C?d. Pa?s": 7102,
+   "Pa?s": "SANTA HELENA",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 148,
+   "Nome": "DOBRA S TOME PRIN",
+   "S?mbolo": "STD",
+   "C?d. Pa?s": 7200,
+   "Pa?s": "SAO TOME E PRINCIPE, ILHAS",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 500,
+   "Nome": "LEONE/SERRA LEOA",
+   "S?mbolo": "SLL",
+   "C?d. Pa?s": 7358,
+   "Pa?s": "SERRA LEOA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 120,
+   "Nome": "DINAR IUGOSLAVO",
+   "S?mbolo": "DIN",
+   "C?d. Pa?s": 7370,
+   "Pa?s": "SERVIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "04/08/1998"
+ },
+ {
+   "C?digo": 133,
+   "Nome": "DINAR SERVIO SERVIA",
+   "S?mbolo": "RSD",
+   "C?d. Pa?s": 7370,
+   "Pa?s": "SERVIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 637,
+   "Nome": "NOVO DINAR IUGOSLAVO",
+   "S?mbolo": "YUM",
+   "C?d. Pa?s": 7370,
+   "Pa?s": "SERVIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "27/02/2004"
+ },
+ {
+   "C?digo": 850,
+   "Nome": "RUPIA SEYCHELES",
+   "S?mbolo": "SCR",
+   "C?d. Pa?s": 7315,
+   "Pa?s": "SEYCHELLES",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 575,
+   "Nome": "LIBRA/SIRIA, REP",
+   "S?mbolo": "SYP",
+   "C?d. Pa?s": 7447,
+   "Pa?s": "SIRIA, REPUBLICA ARABE DA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 960,
+   "Nome": "XELIM/SOMALIA",
+   "S?mbolo": "SOS",
+   "C?d. Pa?s": 7480,
+   "Pa?s": "SOMALIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 855,
+   "Nome": "RUPIA/SRI LANKA",
+   "S?mbolo": "LKR",
+   "C?d. Pa?s": 7501,
+   "Pa?s": "SRI LANKA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 585,
+   "Nome": "LILANGENI/SUAZIL",
+   "S?mbolo": "SZL",
+   "C?d. Pa?s": 7544,
+   "Pa?s": "SUAZILANDIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 134,
+   "Nome": "NOVA LIBRA SUDANESA",
+   "S?mbolo": "SDG",
+   "C?d. Pa?s": 7595,
+   "Pa?s": "SUDAO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 580,
+   "Nome": "LIBRA SUDANESA",
+   "S?mbolo": "LSD",
+   "C?d. Pa?s": 7595,
+   "Pa?s": "SUDAO",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": "21/05/1996"
+ },
+ {
+   "C?digo": 136,
+   "Nome": "LIBRA SUL SUDANESA",
+   "S?mbolo": "SSP",
+   "C?d. Pa?s": 7596,
+   "Pa?s": "SUDAO DO SUL",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 70,
+   "Nome": "COROA SUECA",
+   "S?mbolo": "SEK",
+   "C?d. Pa?s": 7641,
+   "Pa?s": "SUECIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 255,
+   "Nome": "DOLAR/SURINAME",
+   "S?mbolo": "SRD",
+   "C?d. Pa?s": 7706,
+   "Pa?s": "SURINAME",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 330,
+   "Nome": "FLORIM/SURINAME",
+   "S?mbolo": "SRG",
+   "C?d. Pa?s": 7706,
+   "Pa?s": "SURINAME",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "06/09/2005"
+ },
+ {
+   "C?digo": 333,
+   "Nome": "DOLAR/SURINAME",
+   "S?mbolo": "SRD",
+   "C?d. Pa?s": 7706,
+   "Pa?s": "SURINAME",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "06/09/2005"
+ },
+ {
+   "C?digo": 835,
+   "Nome": "SOMONI TADJIQUISTAO",
+   "S?mbolo": "TJS",
+   "C?d. Pa?s": 7722,
+   "Pa?s": "TADJIQUISTAO, REPUBLICA DO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 15,
+   "Nome": "BATH/TAILANDIA",
+   "S?mbolo": "THB",
+   "C?d. Pa?s": 7765,
+   "Pa?s": "TAILANDIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 945,
+   "Nome": "XELIM DA TANZANIA",
+   "S?mbolo": "T SH",
+   "C?d. Pa?s": 7803,
+   "Pa?s": "TANZANIA, REP.UNIDA DA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "25/11/1999"
+ },
+ {
+   "C?digo": 946,
+   "Nome": "XELIM/TANZANIA",
+   "S?mbolo": "TZS",
+   "C?d. Pa?s": 7803,
+   "Pa?s": "TANZANIA, REP.UNIDA DA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 75,
+   "Nome": "COROA TCHECA",
+   "S?mbolo": "CZK",
+   "C?d. Pa?s": 7919,
+   "Pa?s": "TCHECA, REPUBLICA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 320,
+   "Nome": "ESCUDO TIMOR LESTE",
+   "S?mbolo": "TPE",
+   "C?d. Pa?s": 7951,
+   "Pa?s": "TIMOR LESTE",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "01/01/2000"
+ },
+ {
+   "C?digo": 680,
+   "Nome": "PAANGA/TONGA",
+   "S?mbolo": "TOP",
+   "C?d. Pa?s": 8109,
+   "Pa?s": "TONGA",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 210,
+   "Nome": "DOLAR/TRIN. TOBAG",
+   "S?mbolo": "TTD",
+   "C?d. Pa?s": 8150,
+   "Pa?s": "TRINIDAD E TOBAGO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 135,
+   "Nome": "DINAR/TUNISIA",
+   "S?mbolo": "TND",
+   "C?d. Pa?s": 8206,
+   "Pa?s": "TUNISIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 608,
+   "Nome": "NOVO MANAT TURCOM",
+   "S?mbolo": "TMT",
+   "C?d. Pa?s": 8249,
+   "Pa?s": "TURCOMENISTAO, REPUBLICA DO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 600,
+   "Nome": "LIRA TURQUIA",
+   "S?mbolo": "TRL",
+   "C?d. Pa?s": 8273,
+   "Pa?s": "TURQUIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "17/12/2009"
+ },
+ {
+   "C?digo": 642,
+   "Nome": "LIRA TURCA",
+   "S?mbolo": "TRY",
+   "C?d. Pa?s": 8273,
+   "Pa?s": "TURQUIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 460,
+   "Nome": "HRYVNIA UCRANIA",
+   "S?mbolo": "UAH",
+   "C?d. Pa?s": 8311,
+   "Pa?s": "UCRANIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 955,
+   "Nome": "XELIM/UGANDA",
+   "S?mbolo": "UGX",
+   "C?d. Pa?s": 8338,
+   "Pa?s": "UGANDA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 745,
+   "Nome": "PESO/URUGUAIO",
+   "S?mbolo": "UYU",
+   "C?d. Pa?s": 8451,
+   "Pa?s": "URUGUAI",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 893,
+   "Nome": "SOM UZBEQUISTAO",
+   "S?mbolo": "UZS",
+   "C?d. Pa?s": 8478,
+   "Pa?s": "UZBEQUISTAO, REPUBLICA DO",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 920,
+   "Nome": "VATU VANUATU",
+   "S?mbolo": "VUV",
+   "C?d. Pa?s": 5517,
+   "Pa?s": "VANUATU",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 25,
+   "Nome": "BOLIVAR/VENZUELA",
+   "S?mbolo": "VEB",
+   "C?d. Pa?s": 8508,
+   "Pa?s": "VENEZUELA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "17/12/2009"
+ },
+ {
+   "C?digo": 26,
+   "Nome": "BOLIVAR VENEZUELANO",
+   "S?mbolo": "VEF",
+   "C?d. Pa?s": 8508,
+   "Pa?s": "VENEZUELA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "19/08/2018"
+ },
+ {
+   "C?digo": 27,
+   "Nome": "BOLIVAR SOBERANO VENEZUELANO",
+   "S?mbolo": "VES",
+   "C?d. Pa?s": 8508,
+   "Pa?s": "VENEZUELA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 260,
+   "Nome": "DONGUE/VIETNAN",
+   "S?mbolo": "VND",
+   "C?d. Pa?s": 8583,
+   "Pa?s": "VIETNA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 765,
+   "Nome": "QUACHA ZAMBIA",
+   "S?mbolo": "ZMK",
+   "C?d. Pa?s": 8907,
+   "Pa?s": "ZAMBIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "31/12/2012"
+ },
+ {
+   "C?digo": 766,
+   "Nome": "QUACHA ZAMBIA",
+   "S?mbolo": "ZMW",
+   "C?d. Pa?s": 8907,
+   "Pa?s": "ZAMBIA",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 217,
+   "Nome": "DOLAR ZIMBABUE",
+   "S?mbolo": "ZWL",
+   "C?d. Pa?s": 6653,
+   "Pa?s": "ZIMBABUE",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 998,
+   "Nome": "OURO",
+   "S?mbolo": "XAU",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 994,
+   "Nome": "PLATINA",
+   "S?mbolo": "PLAT",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": "10/06/2002"
+ },
+ {
+   "C?digo": 993,
+   "Nome": "PALADIO",
+   "S?mbolo": "XPD",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": "10/06/2002"
+ },
+ {
+   "C?digo": 992,
+   "Nome": "DOLAR-ROMENIA",
+   "S?mbolo": "CL$ROM.",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "04/08/1998"
+ },
+ {
+   "C?digo": 991,
+   "Nome": "PRATA-DEAFI",
+   "S?mbolo": "XAG",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": "10/06/2002"
+ },
+ {
+   "C?digo": 990,
+   "Nome": "DOLAR-POLONIA",
+   "S?mbolo": "CL$POL.",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "04/08/1998"
+ },
+ {
+   "C?digo": 988,
+   "Nome": "DOLAR-IUGOSLAVIA",
+   "S?mbolo": "CL$IUG.",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "-",
+   "Data Exclus?o Ptax": "04/08/1998"
+ },
+ {
+   "C?digo": 986,
+   "Nome": "DOLAR-ISRAEL",
+   "S?mbolo": "CL$ISR.",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "-",
+   "Data Exclus?o Ptax": "04/08/1998"
+ },
+ {
+   "C?digo": 984,
+   "Nome": "DOLAR-HUNGRIA",
+   "S?mbolo": "CL$HUNG",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "04/08/1998"
+ },
+ {
+   "C?digo": 983,
+   "Nome": "DOLAR-GRECIA",
+   "S?mbolo": "CL$GREC",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "-",
+   "Data Exclus?o Ptax": "04/08/1998"
+ },
+ {
+   "C?digo": 982,
+   "Nome": "DOLAR-BULGARIA",
+   "S?mbolo": "CL$BULG",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "04/08/1998"
+ },
+ {
+   "C?digo": 980,
+   "Nome": "DOLAR-EX-ALEM.ORI",
+   "S?mbolo": "CL$RDA",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "04/08/1998"
+ },
+ {
+   "C?digo": 978,
+   "Nome": "EURO",
+   "S?mbolo": "EUR",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 918,
+   "Nome": "UNID.MONET.EUROP.",
+   "S?mbolo": "XEU",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 796,
+   "Nome": "RENMINBI HONG KONG",
+   "S?mbolo": "CNH",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 776,
+   "Nome": "KARBOVANETS",
+   "S?mbolo": "UAK",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "04/08/1998"
+ },
+ {
+   "C?digo": 663,
+   "Nome": "NOVO ZAIRE/ZAIRE",
+   "S?mbolo": "ZRN",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "30/10/1998"
+ },
+ {
+   "C?digo": 651,
+   "Nome": "NOVO PESO URUGUAI",
+   "S?mbolo": "NC?",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "03/06/2008"
+ },
+ {
+   "C?digo": 650,
+   "Nome": "NOVO PESO URUGUAI",
+   "S?mbolo": "N$",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "03/06/2008"
+ },
+ {
+   "C?digo": 646,
+   "Nome": "NOVO PESO/MEXICO",
+   "S?mbolo": "MXN",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "03/06/2008"
+ },
+ {
+   "C?digo": 645,
+   "Nome": "NOVO PESO/MEXICO",
+   "S?mbolo": "MXN",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "08/07/2008"
+ },
+ {
+   "C?digo": 605,
+   "Nome": "MARCO",
+   "S?mbolo": "M",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "04/08/1998"
+ },
+ {
+   "C?digo": 555,
+   "Nome": "LIBRA ISRAELENSE",
+   "S?mbolo": "IL",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "04/08/1998"
+ },
+ {
+   "C?digo": 540,
+   "Nome": "LIBRA ESTERLINA",
+   "S?mbolo": "GBP",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 425,
+   "Nome": "FRANCO SUICO",
+   "S?mbolo": "CHF",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 410,
+   "Nome": "FRANCO MALI",
+   "S?mbolo": "MF",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "31/07/1998"
+ },
+ {
+   "C?digo": 385,
+   "Nome": "FRANCO/BURUNDI",
+   "S?mbolo": "BIF",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "31/07/1998"
+ },
+ {
+   "C?digo": 372,
+   "Nome": "FRANCO CFA BCEAO",
+   "S?mbolo": "XOF",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 370,
+   "Nome": "FRANCO CFA BEAC",
+   "S?mbolo": "XAF",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 361,
+   "Nome": "FRANCO BELGA FINA",
+   "S?mbolo": "FBF",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "04/08/1998"
+ },
+ {
+   "C?digo": 325,
+   "Nome": "GUILDER ANTILHAS HOLANDESAS",
+   "S?mbolo": "ANG",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 245,
+   "Nome": "DOLAR NOVA ZELANDIA",
+   "S?mbolo": "NZD",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 225,
+   "Nome": "DOLAR/ETIOPIA",
+   "S?mbolo": "ETB",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "04/08/1998"
+ },
+ {
+   "C?digo": 220,
+   "Nome": "DOLAR DOS EUA",
+   "S?mbolo": "USD",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 215,
+   "Nome": "DOLAR CARIBE ORIENTAL",
+   "S?mbolo": "XCD",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 138,
+   "Nome": "DIREITO ESPECIAL",
+   "S?mbolo": "SDR",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": ""
+ },
+ {
+   "C?digo": 110,
+   "Nome": "DINAR IEMENITA",
+   "S?mbolo": "YD",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "B",
+   "Data Exclus?o Ptax": "31/07/1998"
+ },
+ {
+   "C?digo": 88,
+   "Nome": "CUPON GEORGIANO",
+   "S?mbolo": "RUR",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "04/08/1998"
+ },
+ {
+   "C?digo": 50,
+   "Nome": "CORDOBA/NICARAGUA",
+   "S?mbolo": "NIC",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "31/07/1998"
+ },
+ {
+   "C?digo": 8,
+   "Nome": "BIRR",
+   "S?mbolo": "ETB",
+   "C?d. Pa?s": 0,
+   "Pa?s": "-",
+   "Tipo": "A",
+   "Data Exclus?o Ptax": "28/07/1998"
+ }
+]
